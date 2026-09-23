@@ -1,10 +1,10 @@
 <div align="center">
 
-# COSMIC-Tweaks-AppImage 🐧
+# Tweaks-For-COSMIC-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/COSMIC-Tweaks-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/COSMIC-Tweaks-AppImage/releases/latest)
-[![CI Build Status](https://github.com/pkgforge-dev/COSMIC-Tweaks-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/COSMIC-Tweaks-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/COSMIC-Tweaks-AppImage)](https://github.com/pkgforge-dev/COSMIC-Tweaks-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Tweaks-For-COSMIC-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Tweaks-For-COSMIC-AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/Tweaks-For-COSMIC-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Tweaks-For-COSMIC-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Tweaks-For-COSMIC-AppImage)](https://github.com/pkgforge-dev/Tweaks-For-COSMIC-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://github.com/cosmic-utils/tweaks/blob/main/res/icons/hicolor/scalable/apps/icon.svg" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/COSMIC-Tweaks-AppImage/releases/latest) | [Click here](https://github.com/cosmic-utils/tweaks) |
+| [Click here](https://github.com/pkgforge-dev/Tweaks-For-COSMIC-AppImage/releases/latest) | [Click here](https://github.com/cosmic-utils/tweaks) |
 
 </div>
 
